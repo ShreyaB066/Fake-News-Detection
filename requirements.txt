@@ -1,5 +1,6 @@
 streamlit
 newspaper3k
+lxml
 joblib
 nltk
 scikit-learn
